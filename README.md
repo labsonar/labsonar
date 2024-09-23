@@ -27,7 +27,11 @@ O LabSonar reúne professores e pesquisadores dos programas de Engenharia Elétr
 
 ## Equipe
 
-- Coordenador: Prof. Natanel Moura Junior (@natmourajr), natmourajr@lps.ufrj.br
-- Doutorando: Fábio Oliveira (@obs-fabio), fabio.oliveira@lps.ufrj.br
+- Coordenador: Prof. Natanel Moura Junior ([@natmourajr](https://github.com/natmourajr)), natmourajr@lps.ufrj.br
+- Doutorando: Fábio Oliveira ([@obs-fabio](https://github.com/obs-fabio)), fabio.oliveira@lps.ufrj.br
 - Mestrando: Jaime Vicente (@jdeveloperweb), 
-- Graduando: Gabriel Lisboa (@gabrielhblisboa), gabriel.lisboa@lps.ufrj.br
+- Graduando: Gabriel Lisboa ([@gabrielhblisboa](https://github.com/gabrielhblisboa)), gabriel.lisboa@lps.ufrj.br
+- Graduando: Leticia Luz ([@LeticiaaLuz](https://github.com/LeticiaaLuz)), leticia.luz@lps.ufrj.br
+- Graduando: Lucas Leal ([@LucasLealcar](https://github.com/LucasLealcar)), lucas.cardoso@lps.ufrj.br
+- Graduando: Luis Sena ([@ifuaslaerl](https://github.com/ifuaslaerl)), luis.sena@lps.ufrj.br
+- Graduando: Pedro Carvalho ([@PedroCarvalho03](https://github.com/PedroCarvalho03)), pedro.rocha@lps.ufrj.br
